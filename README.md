@@ -19,3 +19,6 @@ The topology allows power to flow in both directions:
 ## Usage
 Simply open `Bidirectional_DC_DC.slx` in Simulink. The model is already configured and wired. 
 Click **Run** to simulate the model and view the output voltage on the Scope.
+
+## Simulation Results
+![Simulation Results](simulation_result.png)
